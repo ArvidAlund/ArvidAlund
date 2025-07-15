@@ -1,5 +1,5 @@
 # 💫 About Me:
-I´m a student from sweden.
+I´m a student from Sweden.
 
 I´m currently working on my project Segmentor.
 
