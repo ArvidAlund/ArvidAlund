@@ -1,3 +1,5 @@
+![Header](./your-header-image-name.png)
+
 # 💫 About Me:
 I´m a student from Sweden.
 
